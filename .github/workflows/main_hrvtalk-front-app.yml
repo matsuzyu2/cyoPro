@@ -1,3 +1,5 @@
+#GitHub Actions to build and deploy a Node.js app to Azure Web App
+# This workflow will do a clean install of node dependencies, cache them, build the app, run tests, and deploy to Azure Web App
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
